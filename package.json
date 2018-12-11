@@ -1,0 +1,26 @@
+{
+  "name": "phase-spectrograph-3d",
+  "version": "0.1.0",
+  "description": "3D spectrograph that shows both amplitude and phase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davschne/phase-spectrograph-3d.git"
+  },
+  "keywords": [
+    "spectrograph",
+    "spectrogram",
+    "3D",
+    "visualization",
+    "WebGL"
+  ],
+  "author": "David E. Schneider <github.com/davschne>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/davschne/phase-spectrograph-3d/issues"
+  },
+  "homepage": "https://github.com/davschne/phase-spectrograph-3d#readme"
+}
