@@ -24,7 +24,7 @@ const FIELD_OF_VIEW_DEGREES = 30;
 const NEAR_PLANE_DISTANCE = 1;
 const FAR_PLANE_DISTANCE = 100;
 
-// identity model matrix, because cube will be at the origin
+// identity model matrix, because spectrograph will be centered at the origin
 const modelMatrix = new Matrix4();
 
 function screenPositionToRotationAngle(position) {
