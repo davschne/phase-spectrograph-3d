@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/davschne/phase-spectrograph-3d/issues"
   },
-  "homepage": "https://github.com/davschne/phase-spectrograph-3d#readme"
+  "homepage": "https://github.com/davschne/phase-spectrograph-3d#readme",
+  "dependencies": {
+    "regl": "^1.3.9"
+  }
 }
